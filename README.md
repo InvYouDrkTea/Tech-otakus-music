@@ -1,2 +1,2 @@
 # Tech-otakus-music
-Try to play music without any operating system
+Try to play music with DOS.
